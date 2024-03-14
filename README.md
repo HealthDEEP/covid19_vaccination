@@ -8,4 +8,4 @@ article:
 Morand S (2021) Stratégies de contrôle et de vaccination en Asie du Sud-Est. Vie de la Recherche Scientifique 425:36-39
 https://sncs.fr/portfolio/vaccins-et-vaccinations-anti-covid-entre-science-business-et-politique/
 
-![Image Alt text](/HealthDEEP/covid_vaccination/Plot.jpeg)
+![Image Alt text](Plot.jpeg)
